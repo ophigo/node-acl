@@ -8,9 +8,9 @@
     "web",
     "fix node acl mongoose deprecation"
   ],
-  "repository": "https://github.com/alrihawi-ophigo/node_acl.git",
+  "repository": "https://github.com/ophigo/node-acl.git",
   "author": "Manuel Astudillo <manuel@optimalbits.com>, Abdelaziz Al Rihawi <aa@ophigo.com>",
-  "homepage": "https://github.com/optimalbits/node_acl",
+  "homepage": "https://github.com/ophigo/node-acl",
   "engines": {
     "node": ">= 0.10"
   },
