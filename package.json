@@ -1,6 +1,6 @@
 {
   "name": "@ophigo/acl",
-  "version": "0.5.12",
+  "version": "0.5.13",
   "description": "fixed version of node acl",
   "keywords": [
     "middleware",
