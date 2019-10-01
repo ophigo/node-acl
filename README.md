@@ -1,4 +1,4 @@
-# NODE ACL - Access Control Lists for Node
+# Fixed NODE ACL - Access Control Lists for Node
 
 This module provides a minimalistic ACL implementation inspired by Zend_ACL.
 
@@ -14,12 +14,6 @@ A Redis, MongoDB and In-Memory based backends are provided built-in in the modul
 
 Follow [manast](http://twitter.com/manast) for news and updates regarding this library.
 
-## Status
-
-[![BuildStatus](https://secure.travis-ci.org/OptimalBits/node_acl.png?branch=master)](http://travis-ci.org/OptimalBits/node_acl)
-[![Dependency Status](https://david-dm.org/OptimalBits/node_acl.svg)](https://david-dm.org/OptimalBits/node_acl)
-[![devDependency Status](https://david-dm.org/OptimalBits/node_acl/dev-status.svg)](https://david-dm.org/OptimalBits/node_acl#info=devDependencies)
-
 ## Features
 
 - Users
@@ -34,7 +28,7 @@ Follow [manast](http://twitter.com/manast) for news and updates regarding this l
 Using npm:
 
 ```javascript
-npm install acl
+npm install @ophigo/acl
 ```
 
 ## Documentation

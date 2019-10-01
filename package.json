@@ -1,14 +1,15 @@
 {
-  "name": "acl",
-  "version": "0.4.11",
-  "description": "An Access Control List module, based on Redis with Express middleware support",
+  "name": "@ophigo/acl",
+  "version": "0.5.11",
+  "description": "fixed version of node acl",
   "keywords": [
     "middleware",
     "acl",
-    "web"
+    "web",
+    "fix node acl mongoose deprecation"
   ],
-  "repository": "git://github.com/optimalbits/node_acl.git",
-  "author": "Manuel Astudillo <manuel@optimalbits.com>",
+  "repository": "https://github.com/alrihawi-ophigo/node_acl.git",
+  "author": "Manuel Astudillo <manuel@optimalbits.com>, Abdelaziz Al Rihawi <aa@ophigo.com>",
   "homepage": "https://github.com/optimalbits/node_acl",
   "engines": {
     "node": ">= 0.10"
